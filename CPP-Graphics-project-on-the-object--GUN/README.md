@@ -73,3 +73,12 @@ Author: Nimish Joshi
 
 ![2](https://cloud.githubusercontent.com/assets/14539985/14230045/47141ce4-f90e-11e5-946c-80549d9d7008.png)
 
+
+#Testing Set Screen
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14230051/90660bb4-f90e-11e5-850a-425d1f8f87b8.png)
+
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14230052/96cbc6ba-f90e-11e5-9b23-6106159e4ee7.png)
+
+
