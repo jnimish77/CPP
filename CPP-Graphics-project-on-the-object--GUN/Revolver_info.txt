@@ -1,0 +1,30 @@
+	              Object Topic:  Gun (Revolver)
+
+
+
+1. Description of the Object:
+	
+	--A revolver is a repeating firearm that has a revolving cylinder 
+	  containing multiple chambers and at least one barrel for firing.
+	  The term "revolver" refers to a handgun, but other weaponsmay also
+	  have a revolving chamber. These include some models of grenade
+	  launchers, shotguns,and rifles.
+
+	--Though the original name was "revolving gun", the short-hand 
+	  "revolver" is universally used.(Cannons using this mechanism are
+	  known as revolver cannons.) Nearly all early revolvers and many 
+	  modern ones have six chambers in the cylinder, giving rise to the
+	  slang term "six-shooter”,however, revolvers with 3 to 24 chambers 
+	  have been made,with most modern revolvers havin 5 or 6 chambers.
+
+	--The revolver allows the user to fire multiple rounds without 
+	  reloading.Each time the user cocks the hammer, the cylinder revolves
+	  to align the next chamber and round with the hammer and barrel,which
+	  gives this type offirearm its name.
+
+	--A revolver works by having several firing chambers arranged in a
+	  circle in a cylindrical block that are brought into alignment with
+	  the firing mechanism and barrel one at a time. In contrast, other
+	  repeating firearms,such as lever-action, pump-action, and 
+	  semi-automatic,have a single chamber and a mechanism to load and 
+	  extract cartridges into it.
