@@ -82,3 +82,7 @@ Author: Nimish Joshi
 ![image](https://cloud.githubusercontent.com/assets/14539985/14230052/96cbc6ba-f90e-11e5-9b23-6106159e4ee7.png)
 
 
+#Testing Outcome Screen
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14230055/ad8e2442-f90e-11e5-8e5b-f62ed0a698d5.png)
+
