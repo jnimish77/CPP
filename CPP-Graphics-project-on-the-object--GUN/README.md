@@ -68,5 +68,8 @@ Author: Nimish Joshi
 22.	Blow forward operation.
 
 
+![1](https://cloud.githubusercontent.com/assets/14539985/14230016/8ea91858-f90d-11e5-90a6-c6606455b534.png)
+
+![2](https://cloud.githubusercontent.com/assets/14539985/14230017/8eafd242-f90d-11e5-94b3-edbb49fe716c.png)
 
 
