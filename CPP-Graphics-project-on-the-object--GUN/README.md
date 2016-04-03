@@ -17,3 +17,4 @@ Author: Nimish Joshi
   
   Concluding, for the working functionality and the operation of the Revolver, “trigger”, “hammer” and “cylinder’ related its properties and behavior are one of its crucial and significant features that has to work essentially to fulfil its process and hence, single action and double action revolver can be differentiated based on these individual components and performance of these elements.
 
+![image](https://cloud.githubusercontent.com/assets/14539985/14229932/5cc54cd8-f90a-11e5-9aca-c2fae90d3b3c.png)
