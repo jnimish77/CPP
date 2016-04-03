@@ -18,3 +18,55 @@ Author: Nimish Joshi
   Concluding, for the working functionality and the operation of the Revolver, “trigger”, “hammer” and “cylinder’ related its properties and behavior are one of its crucial and significant features that has to work essentially to fulfil its process and hence, single action and double action revolver can be differentiated based on these individual components and performance of these elements.
 
 ![image](https://cloud.githubusercontent.com/assets/14539985/14229932/5cc54cd8-f90a-11e5-9aca-c2fae90d3b3c.png)
+
+          #2. Properties of the Object:
+          
+1.	Type of the Revolver.
+2.	Model.
+3.	Caliber.
+4.	Number of Shots.
+5.	Barrel.
+6.	Total Length
+7.	Weight of the revolver.
+8.	Front Sight.
+9.	Rear Sight.
+10.	Grips.
+11.	Finish.
+12.	Type of bullet injector.
+13.	Trigger.
+14.	Hammer.
+15.	Cylinder.
+16.	Ejector rod.
+17.	Safety guard features.
+18.	Front size.
+19.	Range of the Revolver.
+
+
+          #3. Behavior of the Object:
+
+1.	Magazine injection.
+2.	Loading the Cylinder.
+3.	Loading of the bullets.
+4.	Loading of the gun.
+5.	Safety Guard Engagement.
+6.	Safety Guard Disengagement.
+7.	Position for the target Shooting/Aiming
+8.	Adjusting the Sights.
+9.	Hammering.
+10.	Tilting block.
+11.	Falling block.
+12.	Rolling block.
+13.	Ejection of Cartridge.
+14.	Firing
+15.	Energy emission.
+16.	Thrust emission
+17.	Bolt action.
+18.	Pumping movement.
+19.	Breaking operation.
+20.	Repetition of the bullet.
+21.	Blow back operation.
+22.	Blow forward operation.
+
+
+
+
