@@ -99,15 +99,9 @@ float i, j=0;
       if( i == 800)
          break;
 
-	
-	
 	//if(i==800)
 		//break;
-    
-	 
-	
-
-       
+   
       // if(i==750)
       // rectangle(750,350-i,850-i,400);
        //rectangle(50,350-i,150,400-i);
